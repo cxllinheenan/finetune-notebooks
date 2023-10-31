@@ -1,2 +1,2 @@
-# finetune-llama2-qlora
-A series of notebooks to finetune small language models 
+# qlora finetunes
+A series of notebooks to finetune language models 
